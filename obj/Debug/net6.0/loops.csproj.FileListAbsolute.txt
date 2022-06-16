@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/bin/Debug/net6.0/loops
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/bin/Debug/net6.0/loops.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/bin/Debug/net6.0/loops.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/bin/Debug/net6.0/loops.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/bin/Debug/net6.0/loops.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/refint/loops.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/loops.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/07 - Loops/loops/obj/Debug/net6.0/ref/loops.dll
